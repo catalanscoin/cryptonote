@@ -1,0 +1,16 @@
+{
+    "algorithm": "CryptoNight Turtle",
+    "coin": "CAT",
+    "diffTarget": 210,
+    "forkedFrom": "trtl-turtlecoin",
+    "icon": "http://explorer.catalanscoin.com/img/icon_light.png",
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=5128919",
+        "discord": "#",
+        "repo": "https://github.com/catalanscoin/catalanscoin",
+        "telegram": "https://t.me/CatalansCoin",
+        "twitter": "https://twitter.com/freedom4cat1"
+    },
+    "name": "CatalansCoin",
+    "startDate": "2019-04-06"
+}
